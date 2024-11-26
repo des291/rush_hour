@@ -1,0 +1,18 @@
+#gameboard {
+  width: 30em;
+  height: 30em;
+  background-color: grey;
+  border-style: solid;
+  border-color: darkgrey;
+  border-width: 0.25em;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  height: 4.5em;
+  width: 4.5em;
+  border-style: solid;
+  border-color: darkgrey;
+  border-width: 0.25em;
+}
